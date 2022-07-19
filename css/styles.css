@@ -1,0 +1,63 @@
+
+.cover-photo img{
+  height:60%;
+  width:80%;
+  margin: 10%;
+}
+.inprofile{
+  /* background-color: green; */
+  width: 80%;
+  margin:10%;
+  margin-top: -17%;
+  display:flex;
+
+}
+.inprofile img{
+  height: 25%;
+  width: 25%;
+  border-radius: 50%;
+  margin-left: 10%;
+
+
+}
+.name{
+  margin-top: 8%;
+  margin-left: 8%;
+  /* background-color: red; */
+}
+.name h4{
+  color: #C1B0AC;
+}
+.buttons{
+  /* background-color: blue; */
+  margin-top: 8%;
+  margin-left: 20%;
+}
+.buttons button{
+  margin-top:20%;
+}
+
+.choki{
+  background-color: 	#E9E4D4;
+  /* background-color: ; */
+  display: flex;
+}
+.posts {
+  height: 80%;
+  width:60%;
+}
+
+
+.posts li{
+  display: inline;
+  background-color: #B6B6B4;
+  padding: 2%;
+  border-radius: 12%;
+}
+.posts a{
+  padding: 5%;
+  text-decoration: none;
+}
+.posts a:checked{
+  color: blue;
+}
